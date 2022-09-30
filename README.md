@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manisha</h1>
 <h3 align="center">A passionate undergraduate in Information Technology</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ahoynow.com%2Fabout-us&psig=AOvVaw0L2Vam4tdux__BF64pRG_k&ust=1664613518669000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKiu6uCOvPoCFQAAAAAdAAAAABAI">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishamm19&label=Profile%20views&color=0e75b6&style=flat" alt="manishamm19" /> </p>
 
